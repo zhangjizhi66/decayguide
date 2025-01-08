@@ -1,6 +1,6 @@
 ---
 title: Project Structure
-weight: 1
+weight: 3
 ---
 
 ## Folder Structure

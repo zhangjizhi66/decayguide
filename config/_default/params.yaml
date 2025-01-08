@@ -38,23 +38,23 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "logo.png"
     button:
-      enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/details/docs/"
+      enable: false
+      text: ""
+      url: ""
     show_search: true
     show_theme_chooser: true
 
 # Site footer
-footer:
-  copyright:
-    notice: '© {year} My Company. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+# footer:
+#   copyright:
+#     notice: '© {year} My Company. This work is licensed under {license}'
+#     license:
+#       enable: true
+#       allow_derivatives: false
+#       share_alike: true
+#       allow_commercial: false
 
 # Localization
 locale:
